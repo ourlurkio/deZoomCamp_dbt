@@ -7,3 +7,4 @@ sources:
     tables:
       - name: green_taxi_data
       - name: yellow_taxi_data
+      - name: fhv_data
